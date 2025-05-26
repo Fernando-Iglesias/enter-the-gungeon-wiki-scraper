@@ -65,15 +65,15 @@ pip install -r requirements.txt
 
 ## ✅ Scraper Status
 
-| Category         | Status       |
-|------------------|--------------|
-| Guns             | ⚪ Pending   |
-| Items            | ⚪ Pending   |
-| Synergies        | ⚪ Pending   |
-| Enemies          | ⚪ Pending   |
-| Bosses           | ⚪ Pending   |
-| Chambers         | ⚪ Pending   |
-| Muncher Recipes  | ⚪ Pending   |
+| Category         | Status           |
+|------------------|------------------|
+| Guns             | 🟡 In progress   |
+| Items            | ⚪ Pending       |
+| Synergies        | ⚪ Pending       |
+| Enemies          | ⚪ Pending       |
+| Bosses           | ⚪ Pending       |
+| Chambers         | ⚪ Pending       |
+| Muncher Recipes  | ⚪ Pending       |
 
 ---
 
